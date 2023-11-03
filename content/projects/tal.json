@@ -1,0 +1,18 @@
+{
+    "title": "TAL: Tracker for AniList",
+    "subtitle": "Automatically track the anime you watch on Kodi to your AniList account",
+    "description": "(WIP: The tool has barely started development). TAL is a Kodi plugin that automatically tracks any watched anime to your AniList account. It interacts with both the Kodi and AniList APIs to do this. Development is currently on hold.",
+    "tags": [
+        "Kodi",
+        "AniList",
+        "Python",
+        "API"
+    ],
+    "links": [
+        {
+            "title": "View Source",
+            "url": "https://github.com/TheColorman/TAL",
+            "icon": "github"
+        }
+    ]
+}

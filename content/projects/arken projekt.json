@@ -1,0 +1,23 @@
+{
+    "title": "Arken Projekt",
+    "subtitle": "Digital online gallery",
+    "description": "Web-based gallery of some exhibitions of the Arken Museum of Modern Art in Ishøj, Denmark. This project was created as part of a high school Digital Design and Innovation project.",
+    "tags": [
+        "TypeScript",
+        "JavaScript",
+        "TailwindCSS",
+        "Prisma",
+        "Next.js",
+        "Website",
+        "Collaboration",
+        "React",
+        "School"
+    ],
+    "links": [
+        {
+            "title": "View Source",
+            "url": "https://github.com/TheColorman/arken-projekt",
+            "icon": "github"
+        }
+    ]
+}

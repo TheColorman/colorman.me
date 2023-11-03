@@ -1,0 +1,23 @@
+{
+    "title": "colorman.me",
+    "subtitle": "This very website!",
+    "description": "This is my personal/portfolio website. It's built with Nuxt, a Vue.js meta-framework, and Tailwind CSS, a utility-first CSS framework. It's hosted on GitHub Pages, and the source code is available on GitHub.",
+    "short_description": "The website you're currently on.",
+    "tags": [
+        "JavaScript",
+        "TypeScript",
+        "Vue.js",
+        "Nuxt",
+        "Tailwind CSS",
+        "GitHub Pages",
+        "Website"
+    ],
+    "links": [
+        {
+            "title": "View Source",
+            "url": "https://github.com/TheColorman/colorman.me",
+            "icon": "github"
+        }
+    ],
+    "promoted": true
+}

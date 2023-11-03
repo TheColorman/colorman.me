@@ -1,0 +1,34 @@
+{
+    "title": "Dunhammer",
+    "subtitle": "Levels bot for Discord",
+    "description": "A bot designed to track activity and assign levels to users. Consists of a Discord bot and a web interface. The web interface is used to purchase backgrounds for your profile. A redesign of the web interface was in progress, but the entire proejct has since been abandoned.",
+    "short_description": "A bot designed to track activity and assign levels to users. Since discontinued.",
+    "tags": [
+        "Node.js",
+        "Discord.js",
+        "Express",
+        "MySQL",
+        "Next.js",
+        "React",
+        "TailwindCSS",
+        "Website"
+    ],
+    "links": [
+        {
+            "title": "View Source",
+            "url": "https://github.com/TheColorman/Dunhammer",
+            "icon": "github"
+        },
+        {
+            "title": "Invite",
+            "url": "https://discord.com/api/oauth2/authorize?client_id=671681661296967680&permissions=2088234238&scope=bot%20applications.commands",
+            "icon": "discord"
+        },
+        {
+            "title": "Website",
+            "url": "https://dunhammer.colorman.me",
+            "icon": "external-link"
+        }
+    ],
+    "promoted": true
+}

@@ -1,0 +1,29 @@
+{
+    "title": "Audio Replacer",
+    "subtitle": "Web-based audio replacement tool",
+    "description": "Audio Replacer is a web-based tool that allows users to easily and seamlessly merge the audio and video tracks from two separate files. It's possible to upload audio, image and video files. Audio Replacer runs entirely locally in the browser, so no data is sent to a server.",
+    "short_description": "A web-based audio replacement tool that allows you to easily mix a video/image and audio track by uploading two files.",
+    "tags": [
+        "TypeScript",
+        "Next.js",
+        "React",
+        "Tailwind CSS",
+        "Github Pages",
+        "ffmpeg",
+        "Website",
+        "School"
+    ],
+    "links": [
+        {
+            "title": "View Source",
+            "url": "https://github.com/TheColorman/audio-replacer",
+            "icon": "github"
+        },
+        {
+            "title": "View Live",
+            "url": "https://replacer.colorman.me",
+            "icon": "external-link"
+        }
+    ],
+    "promoted": true
+}

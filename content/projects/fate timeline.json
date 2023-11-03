@@ -1,0 +1,25 @@
+{
+    "title": "Fate Timeline",
+    "subtitle": "",
+    "description": "Fate is a multimedia franchise that started with a visual novel by Type-Moon. The franchise is notorious for its convoluted timeline, which I have attempted to visualise interactively.\n\n(This project is currently on hold, and will be entirely reworked in the future.)",
+    "tags": [
+        "TypeScript",
+        "React",
+        "Bootstrap",
+        "React native",
+        "Github Pages",
+        "Website"
+    ],
+    "links": [
+        {
+            "title": "View Source",
+            "url": "https://github.com/TheColorman/Fate-Timeline",
+            "icon": "github"
+        },
+        {
+            "title": "View Live",
+            "url": "https://thecolorman.github.io/Fate-Timeline/",
+            "icon": "external-link"
+        }
+    ]
+}

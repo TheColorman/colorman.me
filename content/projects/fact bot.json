@@ -1,0 +1,24 @@
+{
+    "title": "Fact Bot (Davey)",
+    "subtitle": "Machine learning chatbot",
+    "description": "Fact Bot, otherwise known as Davey, is a Discord chatbot that uses machine learning to learn from the conversations in a server. It's purposefully built to be bad, and therefore most of the things it says are gibberish, but they can be funny.",
+    "tags": [
+        "Node.js",
+        "Discord.js",
+        "Machine Learning",
+        "TypeScript",
+        "Docker"
+    ],
+    "links": [
+        {
+            "title": "View Source",
+            "url": "https://github.com/TheColorman/factbot",
+            "icon": "github"
+        },
+        {
+            "title": "Invite",
+            "url": "https://discord.com/api/oauth2/authorize?client_id=961239124562567169&permissions=2048&scope=bot",
+            "icon": "discord"
+        }
+    ]
+}

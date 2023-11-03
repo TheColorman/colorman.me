@@ -1,0 +1,25 @@
+{
+    "title": "Steam Recommender",
+    "subtitle": "A Steam game recommender",
+    "description": "This is a very simple web-based Steam game recommender. You log in with your Steam account, rate the games you've played by either upvoting or downvoting them, and the website shows you game matching your ratings. It was created as a high school programming project in collaboration with Spurb and Mluo.",
+    "tags": [
+        "JavaScript",
+        "HTML",
+        "Node.js",
+        "Express",
+        "Collaboration",
+        "School"
+    ],
+    "links": [
+        {
+            "title": "View Source",
+            "url": "https://github.com/TheColorman/SteamRecommender",
+            "icon": "github"
+        },
+        {
+            "title": "View website",
+            "url": "https://steam.colorman.me",
+            "icon": "external-link"
+        }
+    ]
+}

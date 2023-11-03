@@ -1,0 +1,26 @@
+{
+    "title": "Discord Portal",
+    "subtitle": "Connections across servers",
+    "description": "Discord Portal is a Discord bot that enables cross-server communication by linking channels together. A channel can serve as an entrypoint to a Portal, and any message sent in that channel will be sent to all other channels linked to the Portal. This allows for a seamless experience for users, as they can communicate with people from other servers without having to leave their own.",
+    "short_description": "A Discord bot that enables cross-server communication by linking channels together.",
+    "tags": [
+        "TypeScript",
+        "Discord.js",
+        "Better-SQLite3",
+        "Webhooks",
+        "Docker"
+    ],
+    "links": [
+        {
+            "title": "View Source",
+            "url": "https://github.com/TheColorman/discord-portal",
+            "icon": "github"
+        },
+        {
+            "title": "Invite",
+            "url": "https://discord.com/api/oauth2/authorize?client_id=1057817052917805208&permissions=537263168&scope=bot",
+            "icon": "discord"
+        }
+    ],
+    "promoted": true
+}

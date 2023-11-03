@@ -1,0 +1,28 @@
+{
+    "title": "ITUnderground Website",
+    "subtitle": "Emulating a Linux shell in the browser",
+    "description": "ITUnderground is a student organization at the IT University of Copenhagen with a focus on hacking and cybersecurity. The website is attempts to emulate a Linux shell, and is built with SvelteKit and TailwindCSS.",
+    "short_description": "ITUnderground is a hacking organization at ITU. This website emulates a Linux shell to teach people about the command like.",
+    "tags": [
+        "Svelte",
+        "SvelteKit",
+        "TailwindCSS",
+        "Website",
+        "TypeScript",
+        "JavaScript",
+        "Linux"
+    ],
+    "links": [
+        {
+            "title": "View Source",
+            "url": "https://github.com/ITUnderground/website",
+            "icon": "github"
+        },
+        {
+            "title": "Visit Website",
+            "url": "https://itunderground.dk",
+            "icon": "external-link"
+        }
+    ],
+    "promoted": true
+}

@@ -1,0 +1,28 @@
+{
+    "title": "Ani Improver",
+    "subtitle": "3rd party AniList utility",
+    "description": "A website where you can see extended statistics about your AniList profile. Just enter your username. This project was made as an exam project in high school in Informatics.",
+    "tags": [
+        "Next.js",
+        "TailwindCSS",
+        "Website",
+        "API",
+        "TypeScript",
+        "React",
+        "GraphQL",
+        "Collaboration",
+        "School"
+    ],
+    "links": [
+        {
+            "title": "View Source",
+            "url": "https://github.com/TheColorman/ani-improver",
+            "icon": "github"
+        },
+        {
+            "title": "View Website",
+            "url": "https://ani.colorman.me",
+            "icon": "external-link"
+        }
+    ]
+}

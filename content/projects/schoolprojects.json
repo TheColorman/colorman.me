@@ -1,0 +1,23 @@
+{
+    "title": "School Projects",
+    "subtitle": "A collection of projects I made during my time at high school",
+    "description": "A collection of various smaller projects I made during high school. They're mostly answers to programming assignments, and are all written in JavaScript suing p5.js.",
+    "short_description": "Collection of various smaller projects made in high school, all with p5.js.",
+    "tags": [
+        "p5.js",
+        "JavaScript",
+        "School"
+    ],
+    "links": [
+        {
+            "title": "View on GitHub",
+            "url": "https://github.com/TheColorman/SchoolProjects",
+            "icon": "github"
+        },
+        {
+            "title": "Will be a list of project links in the future",
+            "url": "#",
+            "icon": "external-link"
+        }
+    ]
+}
